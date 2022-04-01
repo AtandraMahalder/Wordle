@@ -1,7 +1,7 @@
 # Wordle
 This accompanying strategy and given program can be used to get fast and near accurate solutions to Wordle. 
 
-First try our the following guesses: brick, glent, jumpy, vozhd, waqfs
+First try out the following guesses: brick, glent, jumpy, vozhd, waqfs
 
 From these guesses we can determine the letters in our desired words and if possible their positions.
 
